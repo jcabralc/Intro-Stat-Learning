@@ -3,7 +3,7 @@ Author: Jessica Cabral <br />
 
 Exercises for "An Introduction to Statistical Learning with Applications in ~~R~~ Python"
 
-In these repository you will find all exercises of the book on Python with Jupyther Notebook.
+In these repository you will find all exercises of the book in Python with Jupyther Notebook.
 
 All the book exercises is aggregated into one repo.
 
